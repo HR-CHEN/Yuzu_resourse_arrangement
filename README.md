@@ -1,3 +1,3 @@
 # Yuzu_resourse_arrangement
-Yuzu模拟器使用说明
-https://yuzu-emu.org/
+# Yuzu模拟器资源整理贴
+Yuzu模拟器https://yuzu-emu.org/
